@@ -1,1 +1,5 @@
 
+Mastermind board games have a row of holes set apart at one end of the board, hidden from view under a hinged shield.
+The person who plays the code maker secretly takes a few colored pegs and places them in that row of holes,
+in any order. This is the code that the codebreaker will try to guess.
+in this project, we assumed that colors are numeric digits and there is a single player only.
